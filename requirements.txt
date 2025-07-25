@@ -1,0 +1,8 @@
+pandas
+boto3
+python-dotenv
+pyarrow
+sqlalchemy
+psycopg2-binary
+requests
+apache-airflow[postgres]==2.9.1
